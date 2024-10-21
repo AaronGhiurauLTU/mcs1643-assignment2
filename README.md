@@ -10,58 +10,58 @@
 ---
 
 # Required ReadMe Info for ALL MCS1243 Projects
-* **Project**   - 
-* **Your Name** - 
-* **Date**      - 
+Assignment 2: FPS
+Aaron Ghiurau
+10/23/24
 
 <br>
 
 1. **What are the controls to your game? How do we play?**
 
-
+WASD to move, mouse to turn camera, space to jump
 
 <br>
 
 2. **What creative additions did you make? How can we find them?**
 
-
+Created a level with 3 sections and multiple platforms to jump from
 
 <br>
 
 3. **Any assets used that you didn't create yourself?** <br> (art, music, etc. Just tell us where you got it, link it here)
 
-
+Besides cloning the initial repository, no
 
 <br>
 
 4. **Did you receive help from anyone outside this class?** <br> (list their names and what they helped with)
 
-
+No
 
 <br>
 
 5. **Did you get help from any AI Code Assistants?** <br> (Tell us which .cs file to look in for the citation and describe what you learned)
 
-
+No
 
 <br>
 
 6. **Did you get help from any online websites, videos, or tutorials?** <br> (link them here)
 
-
+The Brackeys ProBuilder video: https://www.youtube.com/watch?v=YtzIXCKr8Wo
 
 <br>
 
 7. **What trouble did you have with this project?**
 
-
+No trouble
 
 <br>
 
 8. **Is there anything else we should know?**
 
 
-
+No
 
 <br><br><br><br><br>
 
